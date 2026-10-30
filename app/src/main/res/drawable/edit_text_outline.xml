@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<shape xmlns:android="http://android.com"
+    android:shape="rectangle">
+
+    <!-- Bagian dalam dibuat transparan murni -->
+    <solid android:color="@android:color/transparent" />
+
+    <!-- GARIS LUAR (OUTLINE): ketebalan 1.5dp, warnanya bebas diganti -->
+    <!-- Ganti #000000 (Hitam) dengan kode warna apa saja sesuai seleramu -->
+    <stroke
+        android:width="1.5dp" />
+
+    <!-- Kelengkungan sudut boks agar kotak bulat estetik -->
+    <corners android:radius="8dp" />
+
+</shape>

@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Kopi dan Nyemil</string>
+    <string name="desk_kopi_aren">Espresso, susu, gula aren</string>
+    <string name="desk_donat">Donat empuk, glaze cokelat</string>
+    <string name="desk_sourdough">Roti fermentasi alami</string>
+    <string name="desk_cappuccino">Espresso, foam susu lembut</string>
+    <string name="desk_matcha_latte">Matcha jepang, susu segar</string>
+</resources>
