@@ -24,7 +24,7 @@ class RegisterActivity : AppCompatActivity() {
 
             if (nama.isNotEmpty() && user.isNotEmpty() && pass.isNotEmpty()) {
                 val intent = Intent(this, HomeActivity::class.java).apply {
-                    intent.putExtra("EXTRA_NAMA", nama)
+                    putExtra("EXTRA_NAMA", nama)
                     flags = Intent.FLAG_ACTIVITY_NEW_TASK or Intent.FLAG_ACTIVITY_CLEAR_TASK
                 }
                 startActivity(intent)

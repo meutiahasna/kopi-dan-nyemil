@@ -22,7 +22,7 @@ class LoginActivity : AppCompatActivity() {
 
             if (username.isNotEmpty() && password.isNotEmpty()) {
                 val intent = Intent(this, HomeActivity::class.java).apply {
-                    intent.putExtra("EXTRA_NAMA", username)
+                    putExtra("EXTRA_NAMA", username)
                     flags = Intent.FLAG_ACTIVITY_NEW_TASK or Intent.FLAG_ACTIVITY_CLEAR_TASK
                 }
                 startActivity(intent)
