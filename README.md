@@ -2,7 +2,12 @@
 
 ### Deskripsi Aplikasi
 Aplikasi "Kopi dan Nyemil" adalah aplikasi mobile berbasis Android untuk pemesanan menu kopi dan cemilan yang dirancang berdasarkan wireframe UTS Pengembangan Aplikasi Mobile (PAM) yang telah diberikan.
-Aplikasi ini dibangun menggunakan Android Studio dengan template Empty Views Activity berbasis bahasa pemrograman Kotlin tanpa menggunakan database eksternal (menggunakan data statis (dummy data)). Berikut wireframe yang dimaksud:
+Aplikasi ini dibangun menggunakan Android Studio dengan template Empty Views Activity berbasis bahasa pemrograman Kotlin tanpa menggunakan database eksternal (menggunakan data statis (dummy data)).
+
+Berikut wireframe yang dimaksud:
+
+<img width="816" height="500" alt="Wireframe" src="https://github.com/user-attachments/assets/fd224cc4-34e8-4180-9591-c37c0657a56c" />
+
 
 ### Fitur
 Aplikasi ini mengimplementasikan semua tampilan dan fitur yang terdapat pada wireframe, yaitu:
@@ -38,9 +43,42 @@ Halaman konfirmasi bahwa pesanan telah berhasil diproses yang ditampilkan setela
 * Desain Antarmuka (UI): XML Layout
 
 ### Cara menjalankan aplikasi
-1. Clone repository: 
+1. Clone repository:
+```bash
+git clone https://github.com/meutiahasna/kopi-dan-nyemil
+```
 2. Buka folder proyek ini di Android Studio
 3. Tunggu proses Sync Gradle (Sync Project with Gradle Files) selesai
 4. Jalankan aplikasi pada Emulator atau Perangkat Fisik Android via USB Debugging
 
 ### Screenshot tampilan
+
+| 1. Splash / Welcome | 2. Sign up |
+| :---: | :---: |
+| <img width="720" height="1600" alt="image" src="https://github.com/user-attachments/assets/6485ad77-4ca2-493b-b269-997040c9c939" /> | <img width="720" height="1600" alt="image" src="https://github.com/user-attachments/assets/6e10ad7b-18aa-4176-937a-f24f6a3f0e4a" /> |
+
+| 3. Login User | 4. Register |
+| :---: | :---: |
+| <img width="720" height="1600" alt="image" src="https://github.com/user-attachments/assets/3aef9f78-2c96-4402-b70a-585997dc4f3c" /> | <img width="720" height="1600" alt="image" src="https://github.com/user-attachments/assets/954fc268-1e3e-40c5-8d83-3919e77706c4" /> |
+
+
+| 5. Home | 6. Profile |
+| :---: | :---: |
+| <img width="720" height="1600" alt="image" src="https://github.com/user-attachments/assets/a04abfa8-4e0f-4875-844e-2a0c1bfe20d0" /> | <img width="720" height="1600" alt="image" src="https://github.com/user-attachments/assets/7e46d272-6796-4107-8eb0-e93b37ee47e5" /> |
+
+| 7. Alamat Pengiriman (Order) | 8. Konfirmasi |
+| :---: | :---: |
+| <img width="720" height="1600" alt="image" src="https://github.com/user-attachments/assets/25b274f4-7403-46db-bc02-5dffcdb3ddee" /> | <img width="720" height="1600" alt="image" src="https://github.com/user-attachments/assets/efb9ae7f-4806-49b5-8069-8998e31f787a" /> |
+
+
+
+
+
+
+
+
+
+
+
+
+
