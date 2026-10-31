@@ -55,20 +55,20 @@ git clone https://github.com/meutiahasna/kopi-dan-nyemil
 
 | 1. Splash / Welcome | 2. Sign up |
 | :---: | :---: |
-| <img width="720" height="1600" alt="image" src="https://github.com/user-attachments/assets/6485ad77-4ca2-493b-b269-997040c9c939" /> | <img width="720" height="1600" alt="image" src="https://github.com/user-attachments/assets/6e10ad7b-18aa-4176-937a-f24f6a3f0e4a" /> |
+| <img width="720" height="1600" alt="image" src="https://github.com/user-attachments/assets/2da798d9-0dde-45f9-9e4d-85637cbacc29" /> | <img width="720" height="1600" alt="image" src="https://github.com/user-attachments/assets/c7a90e52-b0dc-4d43-a98f-ed56083cfa82" /> |
 
 | 3. Login User | 4. Register |
 | :---: | :---: |
-| <img width="720" height="1600" alt="image" src="https://github.com/user-attachments/assets/3aef9f78-2c96-4402-b70a-585997dc4f3c" /> | <img width="720" height="1600" alt="image" src="https://github.com/user-attachments/assets/954fc268-1e3e-40c5-8d83-3919e77706c4" /> |
+| <img width="720" height="1600" alt="image" src="https://github.com/user-attachments/assets/40c0ab6c-d1e9-4910-aff4-d01e37a27b2f" /> | <img width="720" height="1600" alt="image" src="https://github.com/user-attachments/assets/9e1d515d-ef0e-4dd1-8592-83d0661f0e31" /> |
 
 
 | 5. Home | 6. Profile |
 | :---: | :---: |
-| <img width="720" height="1600" alt="image" src="https://github.com/user-attachments/assets/a04abfa8-4e0f-4875-844e-2a0c1bfe20d0" /> | <img width="720" height="1600" alt="image" src="https://github.com/user-attachments/assets/7e46d272-6796-4107-8eb0-e93b37ee47e5" /> |
+| <img width="720" height="1600" alt="image" src="https://github.com/user-attachments/assets/b5b51d60-ff38-45fd-88af-9033582533f0" /> | <img width="720" height="1600" alt="image" src="https://github.com/user-attachments/assets/f3fb6550-997c-4f89-be1e-3c409f76a149" /> |
 
 | 7. Alamat Pengiriman (Order) | 8. Konfirmasi |
 | :---: | :---: |
-| <img width="720" height="1600" alt="image" src="https://github.com/user-attachments/assets/25b274f4-7403-46db-bc02-5dffcdb3ddee" /> | <img width="720" height="1600" alt="image" src="https://github.com/user-attachments/assets/efb9ae7f-4806-49b5-8069-8998e31f787a" /> |
+| <img width="720" height="1600" alt="image" src="https://github.com/user-attachments/assets/a9c00299-61de-43b2-abfc-a348b55390c1" /> | <img width="720" height="1600" alt="image" src="https://github.com/user-attachments/assets/f3b68106-3df4-407a-8897-616abbb36c0b" /> |
 
 
 
